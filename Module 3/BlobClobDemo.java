@@ -7,7 +7,7 @@ class BlobClobDemo {
 
         String url = "jdbc:mysql://localhost:3306/college";
         String user = "jdbcuser";
-        String password = "Achu@123";
+        String password = "Vishnu@123";
 
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
